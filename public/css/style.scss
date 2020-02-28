@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+$primaryfont: 'Open-Sans', sans-serif;
+$titleColor: #CE0E2D;
+$fontColor: #2d2a26;
+$headerTxtColor: #758692;
+
+body {
+    font-family: $primaryfont;
+    color: $fontColor;
+}
+
+h1 {
+    color: $titleColor;
+}

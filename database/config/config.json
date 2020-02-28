@@ -1,0 +1,10 @@
+{
+  "development": {
+    "use_env_variable": "DATABASE",
+    "operatorsAliases": false
+  },
+  "production": {
+    "use_env_variable": "JAWSDB_URL",
+    "operatorsAliases": false
+  }
+}
